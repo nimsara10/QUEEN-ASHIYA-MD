@@ -22,19 +22,19 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94786746412'] //your owner number
-global.premium = ['94786746412'] //your Owner number in menu msg
-global.ownernomer = '94786746412' //your owner number info
+global.owner = ['94752521338'] //your owner number
+global.premium = ['94752521338'] //your Owner number in menu msg
+global.ownernomer = '94752521338' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
-global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
-global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
+global.ownername = '꧁〠𝘼𝘾𝙃𝙄𝙔𝘼〠꧂༺⃝ᵇᵒᵗ⃪⃑⃐༻⃝⦁⦂↣' //your owner name
+global.botname = '💞 𝙰𝙲𝙷𝙸𝙽𝚃𝙷𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
+global.footer = '💞 𝙰𝙲𝙷𝙸𝙽𝚃𝙷𝙰 💞' 
 
 global.ig = 'https://github.com/ishansandeepa757' //Github Account!
 global.region = 'Sri Lanka'
 global.sc = 'https://github.com/ishansandeepa757'
 global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix' //your chanal link
-global.packname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞'
+global.packname = '🧚‍♂️𝐀𝐂𝐇𝐈𝐍𝐓𝐇𝐀🧚‍♂️💔'
 
 global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
 
